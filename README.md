@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## 🔬 GitHub Stats
+</br>
+<div align="center"> 
+   <a href="https://github.com/UnMugViolet" >
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnMugViolet&langs_count=3&theme=react"" alt="Paul's GitHub languages" height="200"/>
+   </a>
+   
+   <a href="https://github.com/UnMugViolet">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=UnMugViolet&theme=react&show_icons=true" alt="Paul's GitHub page" height="200"/>
+   </a>
+</div>
 <!--
 **listaro75/listaro75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
